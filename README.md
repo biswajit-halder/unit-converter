@@ -24,6 +24,6 @@ Sample solution for the <a href="https://roadmap.sh/projects/unit-converter" tar
 ## Usage
 
 Run the application using the following command:
-    ```sh
-    npm start
-    ```
+```sh
+npm start
+```
